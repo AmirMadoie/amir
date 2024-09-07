@@ -10,3 +10,9 @@ p{
 a{
     text-decoration: line-through;
 }
+.article{
+    display: flex ;
+    justify-content: space-between;
+    background-color: aqua;
+    align-items: center;
+}
