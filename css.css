@@ -6,3 +6,7 @@ background-color: aqua;
 p{
     color: red;
 }
+
+a{
+    text-decoration: line-through;
+}
